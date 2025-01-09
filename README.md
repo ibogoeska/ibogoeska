@@ -1,9 +1,11 @@
-## Hi there 👋
+![Green and White Minimalist Business Profile with Photo Profile LinkedIn Banner (1)](https://github.com/user-attachments/assets/21075143-c714-4d65-8a03-267b798951d0)
 
-<!--
-**ibogoeska/ibogoeska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+
+
+Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
