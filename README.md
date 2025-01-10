@@ -22,27 +22,21 @@ let onBoard = "JavaScript, Typescript.js, React.js, Next.js";
 👩‍💻 Passionate about web development, the reason why I decided to dedicate myself more on that area, currently upgrading my knowledge by being part of an Academy for Frontend development, working on projects and gathering real work experience. <br>
 
 ## 💻 Tech Stack
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="width: 40px;"  /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" style="width: 40px;" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" style="width:40px;" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" style="width: 40px;" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" style="width: 40px;" /> 
 
-</div>
+| Tech Stack  | Currently on track |
+| ------------- | ------------- |
+| <div><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="width: 40px;"  /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" style="width: 40px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" style="width:40px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" style="width: 40px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" style="width: 40px;" /></div> | <div><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="width: 40px;" />   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="width: 40px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" style="width: 40px;" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" style="width: 40px;" /> </div> |
 
 
-### I am currently on the track learning: 
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="width: 40px;" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="width: 40px;" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" style="width: 40px;" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" style="width: 40px;" />
-</div>
 
 ## 🪄 Projects
+<div align="center">
+ <img src="https://github.com/user-attachments/assets/3e796796-122d-4022-92a2-db48e051c97f" style="width: 300px; height: 250px" />
+ <img src="https://github.com/user-attachments/assets/2297da47-75ef-40dd-b616-f139518ba361" style="width: 300px; height: 250px" />
+ <img src="https://github.com/user-attachments/assets/9eff9404-9c9f-4714-a5a8-0180f95c6c52" style="width: 300px; height: 250px" />
 
-- 👯 I’m looking to collaborate on ...
+</div>
+
 
 ## 📫 How to reach me: 
 <a href="www.linkedin.com/in/ivona-bogoeska-1358b145">
