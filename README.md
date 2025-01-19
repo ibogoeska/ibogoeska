@@ -11,8 +11,8 @@ _Software engineering master studies graduate with fundamental knowledge of soft
 ## & welcome to my Hub 🌐
 
 ```javascript
- public struc AboutMe {
-let name = "Ivona";
+ public struc aboutMe {
+const name = "Ivona";
 let proffesion = "Frontend development student @ Brainster";
 let canUse = "HTML5, CSS3, Bootstrap5, Wordpress, Git";
 let onBoard = "JavaScript, Typescript.js, React.js, Next.js";
