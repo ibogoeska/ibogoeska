@@ -30,10 +30,11 @@ let onBoard = ["JavaScript", "Typescript.js", "React.js", "Next.js"];
 
 
 ## 🪄 Projects
+Click on the project intro photos for redirecting to my Github pages for every project accordingly. 
 <div align="center">
- <a href="https://ibogoeska.github.io/Gallery_website_SASS/" target="_blank"><img src="https://github.com/user-attachments/assets/3e796796-122d-4022-92a2-db48e051c97f" style="width: 300px; height: 250px" /></a>
- <a href="https://ibogoeska.github.io/sales_dashboard-CSSflexbox/" target="_blank"><img src="https://github.com/user-attachments/assets/2297da47-75ef-40dd-b616-f139518ba361" style="width: 300px; height: 250px" /></a>
- <a href="https://ibogoeska.github.io/youth_can/" target="_blank"><img src="https://github.com/user-attachments/assets/9eff9404-9c9f-4714-a5a8-0180f95c6c52" style="width: 300px; height: 250px" /></a>
+ <a href="https://ibogoeska.github.io/Gallery_website_SASS/" target="_blank"><img src="https://github.com/user-attachments/assets/3e796796-122d-4022-92a2-db48e051c97f" style="width: 250px; height: 250px" /></a>
+ <a href="https://ibogoeska.github.io/sales_dashboard-CSSflexbox/" target="_blank"><img src="https://github.com/user-attachments/assets/2297da47-75ef-40dd-b616-f139518ba361" style="width: 250px; height: 250px" /></a>
+ <a href="https://ibogoeska.github.io/youth_can/" target="_blank"><img src="https://github.com/user-attachments/assets/9eff9404-9c9f-4714-a5a8-0180f95c6c52" style="width: 250px; height: 250px" /></a>
 
 </div>
 
