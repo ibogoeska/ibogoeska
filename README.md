@@ -18,7 +18,7 @@ let canUse = ["HTML5", "CSS3", "Bootstrap5", "Wordpress", "Git"];
 let onBoard = ["JavaScript", "Typescript.js", "React.js", "Next.js"];
 
 const academyFinished = [...canUse, ...onBoard];
-currentStatus = "Frontend Developer open for work opportunities!"
+currentStatus = `I am ${name} a Frontend Developer open for work opportunities! :)`;
 
 }
 ```
